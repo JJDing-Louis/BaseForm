@@ -1,0 +1,10 @@
+D:\Personal-Work-Space\C# Project\BaseForm\BaseForm\bin\Debug\BaseForm.exe.config
+D:\Personal-Work-Space\C# Project\BaseForm\BaseForm\bin\Debug\BaseForm.exe
+D:\Personal-Work-Space\C# Project\BaseForm\BaseForm\bin\Debug\BaseForm.pdb
+D:\Personal-Work-Space\C# Project\BaseForm\BaseForm\obj\Debug\BaseForm.csproj.AssemblyReference.cache
+D:\Personal-Work-Space\C# Project\BaseForm\BaseForm\obj\Debug\BaseForm.BaseForm.resources
+D:\Personal-Work-Space\C# Project\BaseForm\BaseForm\obj\Debug\BaseForm.Properties.Resources.resources
+D:\Personal-Work-Space\C# Project\BaseForm\BaseForm\obj\Debug\BaseForm.csproj.GenerateResource.cache
+D:\Personal-Work-Space\C# Project\BaseForm\BaseForm\obj\Debug\BaseForm.csproj.CoreCompileInputs.cache
+D:\Personal-Work-Space\C# Project\BaseForm\BaseForm\obj\Debug\BaseForm.exe
+D:\Personal-Work-Space\C# Project\BaseForm\BaseForm\obj\Debug\BaseForm.pdb
