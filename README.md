@@ -69,7 +69,8 @@ Example 1. 要在表單進行載入時觸發事件 =>  **Form.Load 事件**
 ```
 
 執行結果:
-![[Pasted image 20211002104510.png]]
+![](https://i.imgur.com/m1BawsP.png)
+
 
 
 Example 2. 要在表單進行載入時觸發事件 =>  **Form.Shown 事件**
@@ -86,7 +87,8 @@ Example 2. 要在表單進行載入時觸發事件 =>  **Form.Shown 事件**
 ```
 
 執行結果:
-![[Pasted image 20211002104533.png]]
+![](https://i.imgur.com/kLLNgYG.png)
+
 
 Example 3. 要在表單進行載入時觸發事件 =>  **Form.Closing 事件**
 ```cs
@@ -102,7 +104,8 @@ Example 3. 要在表單進行載入時觸發事件 =>  **Form.Closing 事件**
 ```
 
 執行結果:
-![[Pasted image 20211002104629.png]]
+![](https://i.imgur.com/pBaKZQR.png)
+
 
 Example 4. 要在表單進行載入時觸發事件 =>   **Form.Closed 事件**
 ```cs
@@ -118,7 +121,8 @@ Example 4. 要在表單進行載入時觸發事件 =>   **Form.Closed 事件**
 ```
 
 執行結果:
-![[Pasted image 20211002112503.png]]
+![](https://i.imgur.com/6sRT6sj.png)
+
 
 ## 3. 完整程式碼
 
